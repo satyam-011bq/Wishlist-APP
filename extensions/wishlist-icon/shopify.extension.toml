@@ -1,4 +1,3 @@
-
-name = "wishlist-page"
-type = "block"
+name = "wishlist-icon"
+type = "theme"
 

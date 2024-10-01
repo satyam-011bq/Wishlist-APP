@@ -1,0 +1,16 @@
+node_modules
+
+shopify.app.toml
+shopify.extensions.toml
+.env
+.env.*
+
+
+
+
+
+/extensions/*/dist
+
+# Ignore shopify files created during app dev
+.shopify/*
+.shopify.lock
